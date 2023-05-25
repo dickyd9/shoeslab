@@ -8373,6 +8373,15 @@ body.light .comments-from form button {
 
 /* ====================== [ End Colors Skin  ] ====================== */
 
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
 
 /* ====================== [ Start Responsive ] ====================== */
 
