@@ -4410,6 +4410,10 @@ header .arrow-down {
     position: relative;
 }
 
+.coming-soon img {
+    max-width: 10%;
+}
+
 .coming-soon .clockdiv li:after,
 .coming-soon .clockdiv li:before {
     content: '';
