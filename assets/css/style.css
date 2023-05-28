@@ -4393,7 +4393,6 @@ header .arrow-down {
     background: url(../img/404.gif) no-repeat;
     background-size: cover;
     background-position: center center;
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
