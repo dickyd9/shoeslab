@@ -3154,6 +3154,10 @@ header .arrow-down {
     position: relative;
 }
 
+.about-busin {
+    background-color: #111111 !important;
+}
+
 .about-busin .img-exp:after {
     content: '';
     position: absolute;
